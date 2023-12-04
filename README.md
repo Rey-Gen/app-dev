@@ -12,3 +12,7 @@
 - Code Geass
 - Pokemon
 - HunterXHunter
+
+  `I love Java`
+
+  ---Keep moving forward
